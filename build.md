@@ -1,3 +1,4 @@
+Music-Extended (arm64-v8a): 7.15.51  
 Music-Extended (arm-v7a): 7.15.51  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YT Music RVX APK  

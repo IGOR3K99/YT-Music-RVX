@@ -1,5 +1,5 @@
-Music-Extended (arm-v7a): 7.17.51  
 Music-Extended (arm64-v8a): 7.17.51  
+Music-Extended (arm-v7a): 7.17.51  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YT Music RVX APK  
 
@@ -8,6 +8,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-ap
 [YT-Music-RVX](https://github.com/IGOR3K99/YT-Music-RVX)
   
 CLI: inotia00/revanced-cli-4.6.2-all.jar  
-Integrations: inotia00/revanced-integrations-1.14.2.apk  
-Patches: inotia00/revanced-patches-4.14.2.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.14.2)  
+Integrations: inotia00/revanced-integrations-1.15.1.apk  
+Patches: inotia00/revanced-patches-4.15.1.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.15.1)  
